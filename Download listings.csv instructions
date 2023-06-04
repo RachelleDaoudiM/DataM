@@ -1,0 +1,8 @@
+The file we used was extracted from a ZIP file called "listings.csv.gz", which must be downloaded directly from the http://insideairbnb.com/ platform, as the file is not supported by Github due to its size. 
+
+How to proceed: 
+- Go to this tab: http://insideairbnb.com/get-the-data
+- Search for "Paris" with Ctrl+F
+- Download the first file named "listings.csv.gz" 
+- Unzip the ZIP file to obtain the listings.csv file used in the project
+- Move the "listings.csv" file to the same jupyter folder as the other project files 
