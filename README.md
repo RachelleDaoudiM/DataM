@@ -2,7 +2,7 @@ DATA MANAGEMENT - HEC Liège
 Final project "Inside AirBNB"
 Group members : Rachelle DAOUDI, Larissa DUTRA, Edom SILESHI
 
-The analysis and our codes are in the jupyter notebook called "Inside AirBNB in Paris project".
+The analysis and our codes are in the jupyter notebook called "Inside AirBNB in Paris project final".
 
 To use it, you have to download 3 files avalaible in the repository :
 - listings.csv.gz
