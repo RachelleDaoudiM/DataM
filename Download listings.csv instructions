@@ -1,2 +1,3 @@
-To download the file used in our notebook (as the size is too important for Github), please enter this link in your browser : 
+To download the ZIP file (as the size is too important for Github), please enter this link in your browser : 
 http://data.insideairbnb.com/france/ile-de-france/paris/2023-03-13/data/listings.csv.gz 
+The file needs to be UNZIP to get listings.csv we used in our notebook. 
